@@ -1,0 +1,19 @@
+html, body{
+  height: 100%;
+}
+body{background-color:yellow;}
+header{
+  text-align:center;
+}
+main{
+    float:left;
+  }
+aside{
+  width:30%;
+  height: 100%;
+  float:left;
+}
+article{
+  float:right;
+  width:70%;
+}
